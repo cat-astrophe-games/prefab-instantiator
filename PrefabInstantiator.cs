@@ -2,7 +2,11 @@
 
 using UnityEngine;
 
+<<<<<<< HEAD
 namespace CatastropheGames.PrefabInstantiator
+=======
+namespace Utilities
+>>>>>>> 0219fcf659bd0809c9c53f8ee2778dcc6667295f
 {
     public class PrefabInstantiator : MonoBehaviour
     {

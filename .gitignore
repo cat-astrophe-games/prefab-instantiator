@@ -58,5 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+<<<<<<< HEAD
 /.svn
 *.meta
+=======
+>>>>>>> 0219fcf659bd0809c9c53f8ee2778dcc6667295f
